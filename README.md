@@ -1,6 +1,3 @@
-# Vue_projects
-### 1.个人博客
-### 2.用户管理系统
-### 3.待办事项
-### 4.vuex待办事项
-### 5.
+# Vuex项目--待办事项
+### vue + vuex + jsonplaceholder
+### 实现了数据的增删改查
